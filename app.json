@@ -1,367 +1,185 @@
 {
-
    "name": "NeimanSpam",
-
     "description": "Spamming Bot Made By Neiman @fuck_uff_XD",
-
     "logo": "https://te.legra.ph/file/315ec5fe03f2a612139b3.jpg",
-
     "keywords": [
-
         "telegram",
-
         "pyrogram",
-
         "telegrambot",
-
         "Neiman",
-
         "Spambot"
-
     ],
-
     "repository": "https://github.com/NEIMAN-AI/SPAMBOT",
-
     "website": "https://t.me/NeimanBot_Owner",
-
     "success_url": "https://t.me/NeimanBot_Owner",
-
     "env": {       
-
         "ENV": {
-
             "description": "dont edit this",
-
             "value": "ANYTHING"
-
         },
-
         "BOT_TOKEN": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN",
-
             "value": ""
-
         },
-
         "BOT_TOKEN2": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false
-
         },
-
         "BOT_TOKEN3": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false
-
         },
-
         "BOT_TOKEN4": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false       
-
         },
-
         "BOT_TOKEN5": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false         
-
         },
-
         "BOT_TOKEN6": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false     
-
         },
-
         "BOT_TOKEN7": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN",
-
             "value": "",
-
             "required": false       
-
         },
-
         "BOT_TOKEN8": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false         
-
         },
-
         "BOT_TOKEN9": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false         
-
         },
-
         "BOT_TOKEN10": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false        
-
         },
-
         "BOT_TOKEN11": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false
-
         },
-
         "BOT_TOKEN12": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false
-
         },
-
         "BOT_TOKEN13": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false
-
         },
-
         "BOT_TOKEN14": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false       
-
         },
-
         "BOT_TOKEN15": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false         
-
         },
-
         "BOT_TOKEN16": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false     
-
         },
-
         "BOT_TOKEN17": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN",
-
             "value": "",
-
             "required": false       
-
         },
-
         "BOT_TOKEN18": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false         
-
         },
-
         "BOT_TOKEN19": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false         
-
         },
-
         "BOT_TOKEN20": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false        
-
         },
-
         "BOT_TOKEN21": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false
-
         },
-
         "BOT_TOKEN22": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false
-
         },
-
         "BOT_TOKEN23": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false
-
         },
-
         "BOT_TOKEN24": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false
-
         },
-
         "BOT_TOKEN25": {
-
             "description": "Use @BotFather. To Get BOT_TOKEN.",
-
             "value": "",
-
             "required": false
-
         },
-
         "SUDO_USERS": {
-
             "description": "Owner Id Get It From start @missrose_bot , then do /id",
-
             "value": ""        
-
         },
-
         "HANDLER": {
-
             "description": "Put Your Handler Anything Here",
-
             "value": "/",
-
             "required": false 
-
         },
-
         "START_PIC": {
-
             "description": "Put telegraph link anyone",
-
             "value":"",
-
             "required": false
-
         },
-
         "HELP_PIC": {
-
             "description": "Put telegraph link anyone",
-
             "value":"",
-
             "required": false
-
         },
-
         "PING_PIC": {
-
             "description": "Put telegraph link anyone",
-
             "value":"",
-
             "required": false
-
         },
-
         "START_MESSAGE": {
-
             "description": "Write Your message that will show you when you start bot",
-
             "value":"",
-
             "required": false
-
         },
-
         "LOG_CHANNEL": {
-
             "description": "Paste here log group id",
-
             "value":"",
-
             "required": false
-
         }
-
     },
-
     "buildpacks": [
-
         {
-
             "url": "heroku/python"
-
         }
-
     ]
 
 }
