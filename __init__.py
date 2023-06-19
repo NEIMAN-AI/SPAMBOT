@@ -6,7 +6,7 @@ from .Config import *
 from .core import *
 
 version = "v1"
-group_username = "@LegendBotSpam"
+group_username = "@Neiman_UB"
 start_time = time.time()
 
 
