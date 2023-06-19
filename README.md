@@ -1,6 +1,6 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=NEIMAN-AI&repo=SPAMBOT&theme=lite)
 
-[![NEIMANSPAMBOT](https://graph.org/file/40aa4c004d91e81cfd47f.jpg)](https://github.com/NEIMAN-AI/SPAMBOT)
+[![NEIMANSPAMBOT](https://graph.org/file/853b7e3e98086e2029739.jpg)](https://github.com/NEIMAN-AI/SPAMBOT)
 
 <h1 align="center">
 
