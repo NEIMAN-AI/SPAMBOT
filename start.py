@@ -1,6 +1,6 @@
 import os
 
-from NeimanBS.startup import *
+from LegendBS.startup import *
 
 os.system("clear")
 
