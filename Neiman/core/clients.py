@@ -208,7 +208,7 @@ if BOT_TOKEN9:
 
         bot_token=BOT_TOKEN9,
 
-        plugins=dict(root="NeimanGirl.NeimanBoy"),
+        plugins=dict(root="Neiman.NeimanBoy"),
 
     )
 
@@ -234,7 +234,7 @@ if BOT_TOKEN10:
 
     )
 
-    print("LegendSpam : Bot token 10 Found")
+    print("NeimanSpam : Bot token 10 Found")
 
 else:
 
@@ -244,7 +244,7 @@ if BOT_TOKEN11:
 
     Client11 = call(
 
-        "LegendSpam11",
+        "NeimanSpam11",
 
         api_id=APP_ID,
 
@@ -252,11 +252,11 @@ if BOT_TOKEN11:
 
         bot_token=BOT_TOKEN11,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="Neiman.NeimanBoy"),
 
     )
 
-    print("LegendSpam : Bot token 11 Found")
+    print("NeimanSpam : Bot token 11 Found")
 
 else:
 
@@ -266,7 +266,7 @@ if BOT_TOKEN12:
 
     Client12 = call(
 
-        "LegendSpam12",
+        "NeimanSpam12",
 
         api_id=APP_ID,
 
@@ -274,11 +274,11 @@ if BOT_TOKEN12:
 
         bot_token=BOT_TOKEN12,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="Neiman.NeimanBoy"),
 
     )
 
-    print("LegendSpam : Bot token 12 Found")
+    print("NeimanSpam : Bot token 12 Found")
 
 else:
 
@@ -288,7 +288,7 @@ if BOT_TOKEN13:
 
     Client13 = call(
 
-        "LegendSpam13",
+        "NeimanSpam13",
 
         api_id=APP_ID,
 
@@ -296,11 +296,11 @@ if BOT_TOKEN13:
 
         bot_token=BOT_TOKEN13,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="Neiman.NeimanBoy"),
 
     )
 
-    print("LegendSpam : Bot token 13 Found")
+    print("NeimanSpam : Bot token 13 Found")
 
 else:
 
@@ -310,7 +310,7 @@ if BOT_TOKEN14:
 
     Client14 = call(
 
-        "LegendSpam14",
+        "NeimanSpam14",
 
         api_id=APP_ID,
 
@@ -318,11 +318,11 @@ if BOT_TOKEN14:
 
         bot_token=BOT_TOKEN14,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="Neiman.LegendBoy"),
 
     )
 
-    print("LegendSpam : Bot token 14 Found")
+    print("NeimanSpam : Bot token 14 Found")
 
 else:
 
@@ -332,7 +332,7 @@ if BOT_TOKEN15:
 
     Client15 = call(
 
-        "LegendSpam15",
+        "NeimanSpam15",
 
         api_id=APP_ID,
 
@@ -340,11 +340,11 @@ if BOT_TOKEN15:
 
         bot_token=BOT_TOKEN15,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="Neiman.NeimanBoy"),
 
     )
 
-    print("LegendSpam : Bot token 15 Found")
+    print("NeimanSpam : Bot token 15 Found")
 
 else:
 
@@ -354,7 +354,7 @@ if BOT_TOKEN16:
 
     Client16 = call(
 
-        "LegendSpam16",
+        "NeimanSpam16",
 
         api_id=APP_ID,
 
@@ -362,11 +362,11 @@ if BOT_TOKEN16:
 
         bot_token=BOT_TOKEN16,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="Neiman.NeimanBoy"),
 
     )
 
-    print("LegendSpam : Bot token 16 Found")
+    print("NeimanSpam : Bot token 16 Found")
 
 else:
 
@@ -376,7 +376,7 @@ if BOT_TOKEN17:
 
     Client17 = call(
 
-        "LegendSpam17",
+        "NeimanSpam17",
 
         api_id=APP_ID,
 
@@ -384,11 +384,11 @@ if BOT_TOKEN17:
 
         bot_token=BOT_TOKEN17,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="Neiman.NeimanBoy"),
 
     )
 
-    print("LegendSpam : Bot token 17 Found")
+    print("NeimanSpam : Bot token 17 Found")
 
 else:
 
@@ -398,7 +398,7 @@ if BOT_TOKEN18:
 
     Client18 = call(
 
-        "LegendSpam18",
+        "NeimanSpam18",
 
         api_id=APP_ID,
 
@@ -406,11 +406,11 @@ if BOT_TOKEN18:
 
         bot_token=BOT_TOKEN18,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="Neiman.NeimanBoy"),
 
     )
 
-    print("LegendSpam : Bot token 18 Found")
+    print("NeimanSpam : Bot token 18 Found")
 
 else:
 
@@ -420,7 +420,7 @@ if BOT_TOKEN19:
 
     Client19 = call(
 
-        "LegendSpam19",
+        "NeimanSpam19",
 
         api_id=APP_ID,
 
@@ -428,11 +428,11 @@ if BOT_TOKEN19:
 
         bot_token=BOT_TOKEN19,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="Neiman.NeimanBoy"),
 
     )
 
-    print("LegendSpam : Bot token 19 Found")
+    print("NeimanSpam : Bot token 19 Found")
 
 else:
 
@@ -442,7 +442,7 @@ if BOT_TOKEN20:
 
     Client20 = call(
 
-        "LegendSpam20",
+        "NeimanSpam20",
 
         api_id=APP_ID,
 
@@ -450,11 +450,11 @@ if BOT_TOKEN20:
 
         bot_token=BOT_TOKEN20,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="NeimanGirl.NeimanBoy"),
 
     )
 
-    print("LegendSpam : Bot token 20 Found")
+    print("NeimanSpam : Bot token 20 Found")
 
 else:
 
@@ -464,7 +464,7 @@ if BOT_TOKEN21:
 
     Client21 = call(
 
-        "LegendSpam21",
+        "NeimanSpam21",
 
         api_id=APP_ID,
 
@@ -472,11 +472,11 @@ if BOT_TOKEN21:
 
         bot_token=BOT_TOKEN21,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="Neiman.NeimanBoy"),
 
     )
 
-    print("LegendSpam : Bot token 12 Found")
+    print("NeimanSpam : Bot token 12 Found")
 
 else:
 
@@ -486,7 +486,7 @@ if BOT_TOKEN22:
 
     Client22 = call(
 
-        "LegendSpam22",
+        "NeimanSpam22",
 
         api_id=APP_ID,
 
@@ -494,11 +494,11 @@ if BOT_TOKEN22:
 
         bot_token=BOT_TOKEN22,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="Neiman.NeimanBoy"),
 
     )
 
-    print("LegendSpam : Bot token 22 Found")
+    print("NeimanSpam : Bot token 22 Found")
 
 else:
 
@@ -508,7 +508,7 @@ if BOT_TOKEN23:
 
     Client23 = call(
 
-        "LegendSpam23",
+        "NeimanSpam23",
 
         api_id=APP_ID,
 
@@ -516,11 +516,11 @@ if BOT_TOKEN23:
 
         bot_token=BOT_TOKEN23,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="Neiman.NeimaBoy"),
 
     )
 
-    print("LegendSpam : Bot token 23 Found")
+    print("NeimanSpam : Bot token 23 Found")
 
 else:
 
@@ -530,7 +530,7 @@ if BOT_TOKEN24:
 
     Client24 = call(
 
-        "LegendSpam14",
+        "NeimanSpam14",
 
         api_id=APP_ID,
 
@@ -538,11 +538,11 @@ if BOT_TOKEN24:
 
         bot_token=BOT_TOKEN14,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="Neiman.NeimanBoy"),
 
     )
 
-    print("LegendSpam : Bot token 24 Found")
+    print("NeimanSpam : Bot token 24 Found")
 
 else:
 
@@ -552,7 +552,7 @@ if BOT_TOKEN25:
 
     Client25 = call(
 
-        "LegendSpam25",
+        "NeimanSpam25",
 
         api_id=APP_ID,
 
@@ -560,11 +560,11 @@ if BOT_TOKEN25:
 
         bot_token=BOT_TOKEN25,
 
-        plugins=dict(root="LegendGirl.LegendBoy"),
+        plugins=dict(root="Neiman.NeimanBoy"),
 
     )
 
-    print("LegendSpam : Bot token 25 Found")
+    print("NeimanSpam : Bot token 25 Found")
 
 else:
 
