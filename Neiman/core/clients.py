@@ -4,7 +4,7 @@ import logging
 
 import platform
 
-from Neiman .start_bot import start_bot
+from LegendBS.start_bot import start_bot
 
 from pyrogram import Client as call
 
