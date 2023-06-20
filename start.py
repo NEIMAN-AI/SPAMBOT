@@ -138,4 +138,4 @@ else:
 
     os.system("clear")
 
-    os.system("python3 -m NeimanMarcus")
+    os.system("python3 -m Neiman")
