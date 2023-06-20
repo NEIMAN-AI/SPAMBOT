@@ -50,14 +50,14 @@ jobs:
 
         with:
 
-          commit_message: 'legend fixed'
+          commit_message: 'neiman fixed'
 
           commit_options: '--no-verify'
 
           repository: .
 
-          commit_user_name: LEGEND-AI
+          commit_user_name: NEIMAN-AI
 
-          commit_user_email: Krishna045Jaiswal@gmail.com
+          commit_user_email: shiva44547@gmail.com
 
-          commit_author: LEGEND-AI<Krishna045Jaiswal@gmail.com>
+          commit_author: NEIMAN-AI<shiva44547@gmail.com>
