@@ -6,7 +6,7 @@ from pyrogram import __version__ as py_version
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup, Message
 
-from LegendGirl.Config import *
+from Neiman.Config import *
 
 from ..core.clients import *
 

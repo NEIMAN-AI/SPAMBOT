@@ -7,8 +7,8 @@ from LegendBS.get_time import get_time
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
-from LegendGirl import start_time
-from LegendGirl.Config import *
+from Neiman import start_time
+from Neiman.Config import *
 
 from .. import sudos
 from ..core.clients import *
@@ -51,6 +51,6 @@ async def restarter(Legend: Client, message: Message):
     except Exception as error:
         print(str(error))
 
-    args = [sys.executable, "-m", "LegendGirl"]
+    args = [sys.executable, "-m", "Neiman"]
     os.execl(sys.executable, *args)
     quit(

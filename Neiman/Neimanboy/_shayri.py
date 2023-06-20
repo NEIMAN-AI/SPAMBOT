@@ -4,7 +4,7 @@ from LegendBS.raid import SHAYRI
 from pyrogram import Client, filters
 from pyrogram.types import *
 
-from LegendGirl.Config import *
+from Neiman.Config import *
 
 from .. import sudos
 from ..core.clients import *

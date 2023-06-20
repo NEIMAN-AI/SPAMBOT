@@ -2,7 +2,7 @@ from LegendBS.banall import start_banall
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
-from LegendGirl.Config import *
+from Neiman.Config import *
 
 from .. import sudos
 

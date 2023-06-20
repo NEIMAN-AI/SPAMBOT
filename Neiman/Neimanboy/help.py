@@ -4,7 +4,7 @@ from pyrogram.types import InlineKeyboardMarkup, Message
 
 from Data import Data
 
-from LegendGirl.Config import *
+from Neiman.Config import *
 
 if HELP_MSG:
 

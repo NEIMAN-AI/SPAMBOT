@@ -2,7 +2,7 @@ from pyrogram import Client, filters
 
 from pyrogram.types import *
 
-from LegendGirl.Config import *
+from Neiman.Config import *
 
 from .. import sudos
 
