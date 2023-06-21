@@ -79,4 +79,4 @@ async def brthdaycmd(Legend: Client, e: Message):
 async def stopbd(_, e: Message):
     global bd
     bd = False
-    await e.reply_text("Stopped Unlimited Wish Happy Birthday"
+    await e.reply_text("Stopped Unlimited Wish Happy Birthday")
