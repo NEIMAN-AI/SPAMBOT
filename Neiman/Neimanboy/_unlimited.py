@@ -136,4 +136,4 @@ async def echo_(Legend: Client, message: Message):
         await Legend.send_message(message.chat.id, msg)
     except Exception as a:
         await Legend.send_message(message.chat.id, msg)
-        print(str(a)
+        print(str(a))
