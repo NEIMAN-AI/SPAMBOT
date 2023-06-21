@@ -49,7 +49,7 @@ async def _start(Legend: Client, message: Message):
         for i in range(1, 26):
             lol = globals()[f"Client{i}"]
             if lol is not None:
-                await lol.send_message(
+                await lol.send_message()
                     message.chat.id,
                     START_MESSAGE,
                     reply_markup=InlineKeyboardMarkup(await start_cmd(Legend)))
