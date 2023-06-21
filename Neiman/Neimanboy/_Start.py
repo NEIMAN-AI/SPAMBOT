@@ -17,9 +17,9 @@ else:
 
 
 @Client.on_message(filters.command(["start"], prefixes=HANDLER))
-async def _start(Legend: Client, message: Message):
+async def _start(Neiman: Client, message: Message):
     global START_MESSAGE
-    my_detail = await Legend.get_me()
+    my_detail = await Neiman.get_me()
     my_mention = my_detail.mention
     if START_MESSAGE:
         START_MESSAGE = START_MESSAGE
