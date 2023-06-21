@@ -1,5 +1,3 @@
-o
-
 from random import choice
 
 from LegendBS.raid import RAID, RRAID
