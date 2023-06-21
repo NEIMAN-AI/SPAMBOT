@@ -32,7 +32,7 @@ if ":" in BOT_TOKEN:
 
         bot_token=BOT_TOKEN,
 
-        plugins=dict(root="Neiman/NeimanBoy"),
+        plugins=dict(root="Neiman/Neimanboy"),
 
     )
 
@@ -54,7 +54,7 @@ if BOT_TOKEN2:
 
         bot_token=BOT_TOKEN2,
 
-        plugins=dict(root="Neiman.NeimanBoy"),
+        plugins=dict(root="Neiman.Neimanboy"),
 
     )
 
@@ -76,7 +76,7 @@ if BOT_TOKEN3:
 
         bot_token=BOT_TOKEN3,
 
-        plugins=dict(root="Neiman.NeimanBoy"),
+        plugins=dict(root="Neiman.Neimanboy"),
 
     )
 
@@ -98,7 +98,7 @@ if BOT_TOKEN4:
 
         bot_token=BOT_TOKEN4,
 
-        plugins=dict(root="Neiman.NeimanBoy"),
+        plugins=dict(root="Neiman.Neimanboy"),
 
     )
 
@@ -120,7 +120,7 @@ if BOT_TOKEN5:
 
         bot_token=BOT_TOKEN5,
 
-        plugins=dict(root="Neiman.NeimanBoy"),
+        plugins=dict(root="Neiman.Neimanboy"),
 
     )
 
@@ -142,7 +142,7 @@ if BOT_TOKEN6:
 
         bot_token=BOT_TOKEN6,
 
-        plugins=dict(root="Neiman.NeimanBoy"),
+        plugins=dict(root="Neiman.Neimanboy"),
 
     )
 
@@ -164,7 +164,7 @@ if BOT_TOKEN7:
 
         bot_token=BOT_TOKEN7,
 
-        plugins=dict(root="Neiman.NeimanBoy"),
+        plugins=dict(root="Neiman.Neimanboy"),
 
     )
 
@@ -516,7 +516,7 @@ if BOT_TOKEN23:
 
         bot_token=BOT_TOKEN23,
 
-        plugins=dict(root="Neiman.NeimaBoy"),
+        plugins=dict(root="Neiman.Neimaboy"),
 
     )
 
@@ -538,7 +538,7 @@ if BOT_TOKEN24:
 
         bot_token=BOT_TOKEN14,
 
-        plugins=dict(root="Neiman.NeimanBoy"),
+        plugins=dict(root="Neiman.Neimanboy"),
 
     )
 
@@ -560,7 +560,7 @@ if BOT_TOKEN25:
 
         bot_token=BOT_TOKEN25,
 
-        plugins=dict(root="Neiman.NeimanBoy"),
+        plugins=dict(root="Neiman.Neimamboy"),
 
     )
 
