@@ -203,4 +203,4 @@ async def _hangchat(Legend: Client, e: Message):
                 f"#Started Hang Spam By User: {e.from_user.id} \n\n Chat: {e.chat.id} \n Counts: {count}",
             )
         except Exception as a:
-            print(a
+            print(a)
