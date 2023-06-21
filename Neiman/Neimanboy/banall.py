@@ -12,4 +12,4 @@ async def banall(Legend: Client, message: Message):
     if message.chat.id == message.from_user.id:
         await message.reply_text("Use this cmd in group;")
         return
-    await start_banall(Legend, message
+    await start_banall(Legend, message)
