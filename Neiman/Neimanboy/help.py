@@ -12,13 +12,13 @@ if HELP_MSG:
 
 else:
 
-    HELP_MSG = "[Spam Bot](https://t.me/TeamLegendXD) Help Menu"
+    HELP_MSG = "[Spam Bot](https://t.me/Neiman_UB) Help Menu"
 
 @Client.on_message(filters.command(["help"], prefixes=HANDLER))
 
 async def _help(Legend: Client, message: Message):
 
-    HELP_MSG = "Help Menu Powered By @TeamLegendXD"
+    HELP_MSG = "Help Menu Powered By @Neiman_UB"
 
     if ".jpg" in HELP_PIC or ".png" in HELP_PIC:
 
