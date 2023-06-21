@@ -1,8 +1,8 @@
 import asyncio
 import random
 
-from Neiman.porn import pornlinks
-from Neiman.raid import RAID
+from LegendBS.porn import pornlinks
+from LegendBS.raid import RAID
 from pyrogram import Client, filters
 from pyrogram.types import *
 
