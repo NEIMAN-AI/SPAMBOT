@@ -1,10 +1,10 @@
 from random import choice
 
-from Neiman.raid import SHAYRI
+from LegendBS.raid import SHAYRI
 from pyrogram import Client, filters
 from pyrogram.types import *
 
-from Neiman.Config import *
+from LegendBS.Config import *
 
 from .. import sudos
 from ..core.clients import *
