@@ -53,3 +53,4 @@ async def _start(Legend: Client, message: Message):
                     message.chat.id,
                     START_MESSAGE,
                     reply_markup=InlineKeyboardMarkup(await start_cmd(Neiman)),
+                )
