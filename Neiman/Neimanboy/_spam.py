@@ -1,8 +1,8 @@
 import asyncio
 import random
 
-from LegendBS.porn import pornlinks
-from LegendBS.raid import RAID
+from Neiman.porn import pornlinks
+from Neiman.raid import RAID
 from pyrogram import Client, filters
 from pyrogram.types import *
 
@@ -15,7 +15,7 @@ from ..core.clients import *
 @Client.on_message(
     filters.user(sudos) & filters.command(["spam", "bigspam"], prefixes=HANDLER)
 )
-async def spam(Legend: Client, e: Message):
+async def spam(Neiman: Client, e: Message):
     usage = f"Command :- {HANDLER}spam (count) (text)\nExample :- `{HANDLER}spam 5 SpamBot OP`\n\n{HANDLER}bigspam (count) (text)\nExample :- `{HANDLER}bigspam 103 Legend Spam Bot`"
     try:
         lol = "".join(e.text.split(maxsplit=1)[1:]).split(" ", 1)
