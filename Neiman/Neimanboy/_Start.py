@@ -33,7 +33,7 @@ async def _start(Legend: Client, message: Message):
                     message.chat.id,
                     START_PIC,
                     caption=START_MESSAGE,
-                    reply_markup=InlineKeyboardMarkup(await start_cmd(Legend)),
+                    reply_markup=InlineKeyboardMarkup(await start_cmd(Neiman)),
                 )
     elif ".mp4" in START_PIC.lower():
         for i in range(1, 26):
@@ -43,7 +43,7 @@ async def _start(Legend: Client, message: Message):
                     message.chat.id,
                     START_PIC,
                     caption=START_MESSAGE,
-                    reply_markup=InlineKeyboardMarkup(await start_cmd(Legend)),
+                    reply_markup=InlineKeyboardMarkup(await start_cmd(Neiman)),
                 )
     else:
         for i in range(1, 26):
@@ -52,4 +52,4 @@ async def _start(Legend: Client, message: Message):
                 await lol.send_message(
                     message.chat.id,
                     START_MESSAGE,
-                    reply_markup=InlineKeyboardMarkup(await start_cmd(Legend)),
+                    reply_markup=InlineKeyboardMarkup(await start_cmd(Neiman)),
