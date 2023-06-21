@@ -53,4 +53,4 @@ async def restarter(Legend: Client, message: Message):
 
     args = [sys.executable, "-m", "Neiman"]
     os.execl(sys.executable, *args)
-    quit(
+    quit()
