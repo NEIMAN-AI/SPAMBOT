@@ -52,4 +52,4 @@ async def _start(Legend: Client, message: Message):
                 await lol.send_message(
                     message.chat.id,
                     START_MESSAGE,
-                    reply_markup=InlineKeyboardMarkup(await start_cmd(Legend)))
+                    reply_markup=InlineKeyboardMarkup(await start_cmd(Legend)),
