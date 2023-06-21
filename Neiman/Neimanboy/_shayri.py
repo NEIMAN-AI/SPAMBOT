@@ -1,6 +1,6 @@
 from random import choice
 
-from LegendBS.raid import SHAYRI
+from Neiman.raid import SHAYRI
 from pyrogram import Client, filters
 from pyrogram.types import *
 
@@ -13,7 +13,7 @@ Useru = False
 
 
 @Client.on_message(filters.user(sudos) & filters.command(["shayri"], prefixes=HANDLER))
-async def shayri(Legend: Client, e: Message):
+async def shayri(Neiman: Client, e: Message):
     usage = f"Command: {HANDLER}shayri -u \nCommand:{HANDLER}shayri -u (reply to anyone)\nCommand: {HANDLER}shayri (count) \nCommand: {HANDLER}shayri (count) (reply to anyone)"
     text = "".join(e.text.split(maxsplit=1)[1:]).split(" ", 2)
     flag = text[0]
