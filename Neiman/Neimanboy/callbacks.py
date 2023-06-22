@@ -8,9 +8,9 @@ from Neiman .cmd_help import *
 
 @Client.on_callback_query()
 
-async def _callbacks(Legend: Client, callback_query: CallbackQuery):
+async def _callbacks(Neiman: Client, callback_query: CallbackQuery):
 
-    user = await Legend.get_me()
+    user = await Neiman.get_me()
 
     user.mention
 
@@ -30,7 +30,7 @@ async def _callbacks(Legend: Client, callback_query: CallbackQuery):
 
                 message_id=message_id,
 
-                text="⚜️ Help Menu⚜️\n\n   Powered By @TeamLegendXD",
+                text="⚜️ Help Menu⚜️\n\n   Powered By @Neiman_UB",
 
                 reply_markup=InlineKeyboardMarkup(Data.HELP_MENU1),
 
@@ -48,7 +48,7 @@ async def _callbacks(Legend: Client, callback_query: CallbackQuery):
 
             message_id=message_id,
 
-            text="Help Menu Has Been Closed\n\n          © @TeamLegendXD",
+            text="Help Menu Has Been Closed\n\n          © @Neiman_UB",
 
             disable_web_page_preview=True,
 
@@ -182,7 +182,7 @@ async def _callbacks(Legend: Client, callback_query: CallbackQuery):
 
             message_id=message_id,
 
-            text="Help Menu Two Powered By @TeamLegendXD",
+            text="Help Menu Two Powered By @Neiman_UB",
 
             disable_web_page_preview=True,
 
@@ -202,7 +202,7 @@ async def _callbacks(Legend: Client, callback_query: CallbackQuery):
 
             message_id=message_id,
 
-            text="Help Menu Two Powered By @TeamLegendXD",
+            text="Help Menu Two Powered By @Neiman_UB",
 
             disable_web_page_preview=True,
 
