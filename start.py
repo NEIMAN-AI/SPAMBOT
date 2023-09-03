@@ -86,9 +86,9 @@ BOT_TOKEN25=
 
 """
 
-Spambot = input(f"Want to fill vars ? if yes type Y/yes else press enter: ")
+Botspam = input(f"Want to fill vars ? if yes type Y/yes else press enter: ")
 
-if spambot.lower() in ["y", "yes"]:
+if botspam.lower() in ["y", "yes"]:
 
     if not os.path.exists(".env"):
 
@@ -100,7 +100,7 @@ if spambot.lower() in ["y", "yes"]:
 
         os.system("clear")
 
-        NeimanStartUP()
+        LegendStartUP()
 
     elif os.path.exists(".env"):
 
@@ -126,13 +126,13 @@ if spambot.lower() in ["y", "yes"]:
 
             os.system("clear")
 
-            NeimanStartUP()
+            LegendStartUP()
 
         else:
 
             os.system("clear")
 
-            NeimanStartUP()
+            LegendStartUP()
 
 else:
 
