@@ -88,7 +88,7 @@ BOT_TOKEN25=
 
 Botspam = input(f"Want to fill vars ? if yes type Y/yes else press enter: ")
 
-if botspam.lower() in ["y", "yes"]:
+if Botspam.lower() in ["y", "yes"]:
 
     if not os.path.exists(".env"):
 
@@ -126,7 +126,7 @@ if botspam.lower() in ["y", "yes"]:
 
             os.system("clear")
 
-            LegendStartUP()
+            LegendBSStartUP()
 
         else:
 
