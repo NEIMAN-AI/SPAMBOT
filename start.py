@@ -100,7 +100,7 @@ if Botspam.lower() in ["y", "yes"]:
 
         os.system("clear")
 
-        LegendStartUP()
+        NeimanStartUP()
 
     elif os.path.exists(".env"):
 
@@ -126,13 +126,13 @@ if Botspam.lower() in ["y", "yes"]:
 
             os.system("clear")
 
-            LegendBSStartUP()
+            NeimanStartUP()
 
         else:
 
             os.system("clear")
 
-            LegendStartUP()
+            NeimanStartUP()
 
 else:
 
